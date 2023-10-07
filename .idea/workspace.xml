@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe3e6a41-3171-44e4-af7d-c305c045aa7b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/1800.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/book.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/customer-orders.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fakefriends.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/AmountByCostumer.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/FriendsByAge.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/LearningScala1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/LearningScala2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/LearningScala3.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/LearningScala4.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/MinTemperatures.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/MosthotDay.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/RatingsCounter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/WordCount.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/WordCountBetter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/WordCountBetterSorted.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/popularMovies.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2WFUgzwp5k2k82aS84A1GM8GrQ4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/spark-3.4.1-bin-hadoop3/jars&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.39310345&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\firas\IdeaProjects\scalaTuto\data" />
+      <recent name="C:\Users\firas\IdeaProjects\scalaTuto\src\main\scala" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe3e6a41-3171-44e4-af7d-c305c045aa7b" name="Changes" comment="" />
+      <created>1696327943455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696327943455</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
