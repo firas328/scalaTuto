@@ -4,33 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe3e6a41-3171-44e4-af7d-c305c045aa7b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/1800.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/book.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/customer-orders.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/fakefriends.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/AmountByCostumer.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/FriendsByAge.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/LearningScala1.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/LearningScala2.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/LearningScala3.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/LearningScala4.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/MinTemperatures.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/MosthotDay.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/RatingsCounter.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/WordCount.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/WordCountBetter.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/WordCountBetterSorted.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/popularMovies.scala" afterDir="false" />
+    <list default="true" id="fe3e6a41-3171-44e4-af7d-c305c045aa7b" name="Changes" comment="beginning">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/popularMoviesBetter.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,9 +70,28 @@
       <option name="presentableId" value="Default" />
       <updated>1696327943455</updated>
     </task>
+    <task id="LOCAL-00001" summary="beginning">
+      <option name="closed" value="true" />
+      <created>1696708199297</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696708199297</updated>
+    </task>
+    <task id="LOCAL-00002" summary="beginning">
+      <option name="closed" value="true" />
+      <created>1696708250177</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696708250177</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="beginning" />
+    <option name="LAST_COMMIT_MESSAGE" value="beginning" />
   </component>
 </project>
