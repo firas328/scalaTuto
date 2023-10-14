@@ -1,3 +1,5 @@
+package com.firas.spark
+
 
 import org.apache.log4j._
 import org.apache.spark.SparkContext

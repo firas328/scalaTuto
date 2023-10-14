@@ -1,8 +1,10 @@
+package com.firas.spark
+
+import org.apache.log4j._
 import org.apache.spark._
-import org.apache.spark.SparkContext._
 import org.apache.spark.rdd._
 import org.apache.spark.util.LongAccumulator
-import org.apache.log4j._
+
 import scala.collection.mutable.ArrayBuffer
 
 /** Finds the degrees of separation between two Marvel comic book characters, based

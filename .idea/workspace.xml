@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="scalaTuto:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe3e6a41-3171-44e4-af7d-c305c045aa7b" name="Changes" comment="get 10 most and less famous hero">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/DegreesOfSeparation.scala" afterDir="false" />
+    <list default="true" id="fe3e6a41-3171-44e4-af7d-c305c045aa7b" name="Changes" comment="get the degree of separation between tow given superhero">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/scalaTuto_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/firas/spark/moviesSimilarities.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/sparkSql/sparkSQL.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bsp/sbt.json" beforeDir="false" afterPath="$PROJECT_DIR$/.bsp/sbt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/AmountByCostumer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/firas/spark/AmountByCostumer.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/DegreesOfSeparation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/firas/spark/DegreesOfSeparation.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/FriendsByAge.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/firas/spark/FriendsByAge.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/LearningScala1.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/firas/spark/LearningScala1.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/LearningScala2.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/firas/spark/LearningScala2.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/LearningScala3.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/firas/spark/LearningScala3.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/LearningScala4.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/firas/spark/LearningScala4.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/MinTemperatures.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/firas/spark/MinTemperatures.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/MostPopularSuperHero.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/firas/spark/MostPopularSuperHero.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/MosthotDay.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/firas/spark/MosthotDay.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/RatingsCounter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/firas/spark/RatingsCounter.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/WordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/firas/spark/WordCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/WordCountBetter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/firas/spark/WordCountBetter.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/WordCountBetterSorted.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/firas/spark/WordCountBetterSorted.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/popularMovies.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/firas/spark/popularMovies.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/popularMoviesBetter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/firas/spark/popularMoviesBetter.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +48,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Scala Worksheet" />
+        <option value="Scala Object" />
       </list>
     </option>
   </component>
@@ -41,21 +69,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/spark-3.4.1-bin-hadoop3/jars&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.39310345&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/spark-3.4.1-bin-hadoop3/jars",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.39310345"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\firas\IdeaProjects\scalaTuto\src\main\scala\com\firas\spark" />
       <recent name="C:\Users\firas\IdeaProjects\scalaTuto\data" />
       <recent name="C:\Users\firas\IdeaProjects\scalaTuto\src\main\scala" />
     </key>
@@ -101,13 +131,33 @@
       <option name="project" value="LOCAL" />
       <updated>1696938511418</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="get the degree of separation between tow given superhero">
+      <option name="closed" value="true" />
+      <created>1696974598239</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696974598239</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="beginning" />
     <MESSAGE value="get 10 most and less famous hero" />
-    <option name="LAST_COMMIT_MESSAGE" value="get 10 most and less famous hero" />
+    <MESSAGE value="get the degree of separation between tow given superhero" />
+    <option name="LAST_COMMIT_MESSAGE" value="get the degree of separation between tow given superhero" />
   </component>
 </project>

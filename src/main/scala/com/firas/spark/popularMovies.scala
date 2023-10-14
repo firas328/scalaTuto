@@ -1,5 +1,7 @@
-import org.apache.spark._
+package com.firas.spark
+
 import org.apache.log4j._
+import org.apache.spark._
 object popularMovies {
   def main(args: Array[String]): Unit = {
     Logger.getLogger("org").setLevel(Level.ERROR)

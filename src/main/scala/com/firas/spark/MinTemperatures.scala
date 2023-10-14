@@ -1,6 +1,8 @@
-import org.apache.spark._
-import org.apache.spark.SparkContext._
+package com.firas.spark
+
 import org.apache.log4j._
+import org.apache.spark._
+
 import scala.math._
 
 /** Find the minimum temperature by weather station */

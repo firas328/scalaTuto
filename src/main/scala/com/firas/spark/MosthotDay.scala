@@ -1,6 +1,7 @@
-import org.apache.spark._
+package com.firas.spark
+
 import org.apache.log4j._
-import scala.math._
+import org.apache.spark._
 
 object MosthotDay{
   def sparseFile(ligne:String) = {

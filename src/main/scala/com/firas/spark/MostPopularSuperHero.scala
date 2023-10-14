@@ -1,5 +1,7 @@
-import org.apache.spark._
+package com.firas.spark
+
 import org.apache.log4j._
+import org.apache.spark._
 object MostPopularSuperHero {
   def parseNames(ligne :String):Option[(Int,String)]={
     val fields =ligne.split('\"')
