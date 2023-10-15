@@ -1,5 +1,4 @@
-package sparkSql
-
+package com.firas.sparkSql
 
 import org.apache.log4j._
 import org.apache.spark.sql.SparkSession
